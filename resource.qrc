@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>背景1.jpg</file>
+        <file>背景3.png</file>
+        <file>notice_driver.bmp</file>
+    </qresource>
+</RCC>
